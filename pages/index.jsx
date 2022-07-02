@@ -13,7 +13,7 @@ const Home = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <a>Hi and welcome Lollo!</a>
+          <a>Hi and welcome Lollisen!</a>
         </h1>
 
         <p className={styles.description}>
